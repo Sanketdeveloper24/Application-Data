@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "category": "Xiaomi Phones"
+  },
+  {
+    "id": 2,
+    "category": "Redme Phones"
+  },
+  {
+    "id": 3,
+    "category": "TV"
+  },
+  {
+    "id": 4,
+    "category": "Laptop & Tablets"
+  },
+  {
+    "id": 5,
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "category": "Home"
+  },
+  {
+    "id": 7,
+    "category": "Audio"
+  }
+]
